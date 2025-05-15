@@ -1,20 +1,21 @@
-# IDEA TECH
+# IDEA TECH  
 
 ## 🌐 About IDEA TECH  
-**IDEA TECH** is a static informational website designed to introduce the company and showcase its services. It consists of the following main sections:
+[IDEA TECH](https://ayman7810.github.io/IDEA_TECH/) is a static informational website designed to introduce the company and showcase its services. It consists of the following main sections:  
 
-- **Home**: A welcoming page providing an overview of the company.  
-- **Our Services**: A detailed list of the services we offer.  
-- **About Us**: Information about our mission, vision, and values.  
-- **Our Team**: Profiles of our talented professionals.  
-- **Contact Us**: Ways to reach out and connect with us.  
+- **Home** – A welcoming page providing an overview of the company.  
+- **Our Services** – A detailed list of the services offered.  
+- **About Us** – Information about the mission, vision, and values of the company.  
+- **Our Team** – Profiles of talented professionals.  
+- **Contact Us** – Ways to reach out and connect with us.  
 
 ### 🛠️ Technologies Used  
 This website is built using the following technologies:  
-- **HTML** – Structuring the content.  
-- **CSS** – Styling and layout design.  
-- **Bootstrap** – Enhancing responsiveness and usability.  
-- **jQuery** – Adding interactive features.  
+- **HTML** – Structuring the content effectively.  
+- **CSS** – Styling and enhancing layout design.  
+- **Bootstrap** – Improving responsiveness and usability across devices.  
+- **jQuery** – Adding dynamic and interactive elements.  
 
-🚀 Experience a seamless and engaging interface with **IDEA TECH**!  
+### 🔗 Live Demo  
+🔹 **Visit IDEA TECH:** [https://ayman7810.github.io/IDEA_TECH/](https://ayman7810.github.io/IDEA_TECH/)  
 
